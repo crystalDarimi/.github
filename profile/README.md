@@ -2,6 +2,7 @@
 # Eple 🍎📚
 
 서비스 소개 링크 🔗 https://nayeonstudy.notion.site/Eple-15fbed1827464aff92d50d120034a121
+url : http://ec2-3-39-74-56.ap-northeast-2.compute.amazonaws.com:8000/
 
 > 과외의 관리와 계획, 비대면 수업까지 하나의 플랫폼에서 도와주는 서비스
 > 
